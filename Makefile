@@ -5,4 +5,4 @@ build:
 
 install:
 	install -d $(DESTDIR)$(PREFIX)/bin/
-	install -m755 sct $(DESTDIR)$(PREFIX)/bin/
+	install -m755 scg $(DESTDIR)$(PREFIX)/bin/
