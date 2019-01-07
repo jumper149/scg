@@ -1,6 +1,8 @@
 # scg
 Set Color from Gamma-values in X11
 
+based on **sct**: http://www.tedunangst.com/flak/post/sct-set-color-temperature
+
 ## Dependencies
 - `libx11`
 - `libxrandr`
